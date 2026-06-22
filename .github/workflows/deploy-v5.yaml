@@ -50,7 +50,7 @@ jobs:
         run: npm run check
 
       - name: Build Quartz
-        run: npx quartz build -d docs -v
+        run: npx quartz build -v
 
       - name: Deploy to Cloudflare Pages
         uses: AdrianGonz97/refined-cf-pages-action@v1
@@ -61,4 +61,4 @@ jobs:
           projectName: quartz
           deploymentName: v5 Branch Preview
           branch: v5
-          directory: content
+          directory: public
