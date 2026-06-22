@@ -61,4 +61,4 @@ jobs:
           projectName: quartz
           deploymentName: v5 Branch Preview
           branch: v5
-          directory: public
+          directory: docs
