@@ -1,5 +1,5 @@
 ---
-title: My Website
+title: Vilarinho Studio Website
 ---
 
 Essa é a homepage!
@@ -9,5 +9,3 @@ Enquanto isso, explore o site!
 
 - [Sobre](sobre.md);
 - [Projetos](projetos.md);
-
-Teste. uia.
