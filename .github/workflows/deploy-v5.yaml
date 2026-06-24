@@ -58,7 +58,7 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           githubToken: ${{ secrets.GITHUB_TOKEN }}
-          projectName: quartz
+          projectName: vilarinhostudio
           deploymentName: v5 Branch Preview
           branch: v5
           directory: public
