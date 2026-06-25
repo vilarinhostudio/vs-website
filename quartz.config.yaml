@@ -13,7 +13,6 @@ configuration:
     - templates
     - .obsidian
     - templates-folder
-    - projetos
     - images
   theme:
     fontOrigin: googleFonts
