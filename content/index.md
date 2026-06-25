@@ -9,3 +9,14 @@ Enquanto isso, explore o site!
 
 - [Sobre](2_sobre.md);
 - [Projetos](1_projetos.md);
+- [Contato](3_contato.md);
+
+---
+%% Editar, parece feito por IA %%
+## **Estudos de uma arquitetura minha**
+
+Este site nasceu como um espaço de criação livre.
+
+A intenção é mostrar ideias, projetos, investigações e experiências.
+
+Uma arquitetura que ainda está se construindo, em constante movimento.
