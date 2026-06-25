@@ -7,5 +7,5 @@ Ela vai ser totalmente editada em html.
 
 Enquanto isso, explore o site!
 
-- [Sobre](sobre.md);
-- [Projetos](projetos.md);
+- [Sobre](2_sobre.md);
+- [Projetos](1_projetos.md);
