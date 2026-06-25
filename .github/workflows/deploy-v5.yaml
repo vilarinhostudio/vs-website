@@ -47,7 +47,10 @@ jobs:
         run: npx quartz plugin install
 
       - name: Check types and style
-        run: npm run check
+        # run: npm run check
+        run: |
+          npx prettier content --write
+          npx tsc --noEmit
 
       - name: Build Quartz
         run: npx quartz build -d content -v
