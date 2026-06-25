@@ -12,7 +12,9 @@ Enquanto isso, explore o site!
 - [Contato](3_contato.md);
 
 ---
+
 %% Editar, parece feito por IA %%
+
 ## **Estudos de uma arquitetura minha**
 
 Este site nasceu como um espaço de criação livre.
