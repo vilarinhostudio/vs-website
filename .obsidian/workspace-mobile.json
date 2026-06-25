@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/projetos/001_Edifício de Uso Misto.md",
+                "file": "content/1_projetos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001_Edifício de Uso Misto"
+              "title": "1_projetos"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/index.md",
+            "file": "content/1_projetos.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,8 +170,8 @@
   },
   "active": "b0f143c12f57b02c",
   "lastOpenFiles": [
-    "content/1_projetos.md",
     "content/projetos/001_Edifício de Uso Misto.md",
+    "content/1_projetos.md",
     "content/projetos",
     "CODE_OF_CONDUCT.md",
     "content/index.md",
