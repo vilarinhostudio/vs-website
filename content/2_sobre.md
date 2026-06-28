@@ -11,4 +11,4 @@ Atualmente desenvolvo plugins e objetos paramétricos para softwares como Archic
 
 Acredito que a arquitetura é um campo em constante diálogo entre o rigor e o experimental, e é nesse espaço que busco criar.
 
-![](images/IMG_8929.jpeg)
+![](assets/IMG_8929.jpeg)
