@@ -7,7 +7,7 @@ draft: false
 filters:
   and:
     - file.ext == "md"
-    - file.inFolder("content/projetos")
+    - file.inFolder("projetos")
     - file.name != "index"
 views:
   - type: cards
