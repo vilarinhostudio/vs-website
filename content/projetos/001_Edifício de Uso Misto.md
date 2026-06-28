@@ -1,6 +1,9 @@
 ---
 title: Edifício de Uso Misto
 draft: false
+data: 2021-12-27
+cover: "[[../assets/Edificio de Uso Misto/Render-06.png]]"
+local: Mogi das Cruzes, SP - Brasil
 ---
 
 O terreno, com área total de 4.885,17m², está localizado na Rodovia Professor Alfredo Rolim Moura, em frente à Universidade de Mogi das Cruzes e em proximidade imediata a importantes equipamentos urbanos, como prédios públicos, o Mogi Shopping e a Estação Estudantes. Essa localização privilegiada insere o projeto em uma paisagem dinâmica e de grande circulação, marcada pelo fluxo constante de estudantes, moradores e visitantes.
@@ -42,5 +45,19 @@ Render da fachada. Fonte: do Autor.
 
 ### Galeria
 
-> [!warning] TODO
-> Fazer Galeria.
+
+```base
+filters:
+  and:
+    - file.folder == "content/assets/Edificio de Uso Misto"
+views:
+  - type: cards
+    name: Galeria
+    order: []
+    image: file.file
+  - type: gallery
+    name: Galeria 2
+    order: []
+    image: file.file
+
+```
