@@ -2,7 +2,7 @@
 title: Edifício de Uso Misto
 draft: false
 data: 2021-12-27
-cover: "[[../assets/Edificio de Uso Misto/Render-06.png]]"
+cover: "[[../images/Edificio de Uso Misto/Render-06.png]]"
 local: Mogi das Cruzes, SP - Brasil
 ---
 
@@ -16,7 +16,7 @@ O estudo de insolação revelou ainda a forte influência do edifício vizinho, 
 
 ### Volumetria e Programa
 
-![](../assets/Edificio%20de%20Uso%20Misto/Render-00-Maquete.png)
+![](../images/Edificio%20de%20Uso%20Misto/Render-00-Maquete.png)
 Maquete 3D renderizada. Fonte: do Autor.
 
 A proposta volumétrica parte da ideia de multiplicar os térreos, criando diferentes acessos em níveis distintos. Essa estratégia permite que o público se aproprie do edifício a partir de variadas perspectivas, vivenciando-o como um espaço aberto, permeável e integrado à cidade.
@@ -31,7 +31,7 @@ No total, o projeto destina 1.046,39m² a áreas permeáveis, o que representa q
 
 A linguagem arquitetônica das fachadas comerciais é marcada por uma cobertura fluida em chapas metálicas perfuradas, cortadas e dobradas, apoiadas em estrutura metálica leve fixada ao concreto. Esse elemento confere dinamismo ao conjunto, filtrando luz, criando sombras e fortalecendo a identidade do edifício no tecido urbano.
 
-![](../assets/Edificio%20de%20Uso%20Misto/diag-fachada.png)
+![](../images/Edificio%20de%20Uso%20Misto/diag-fachada.png)
 Materiais utilizados na fachada. Fonte: do Autor.
 
 ### Conclusão
@@ -40,7 +40,7 @@ O projeto busca transformar um lote extenso e desafiador em um espaço de integr
 
 Assim, a proposta valoriza a caminhabilidade do pedestre, oferece diferentes possibilidades de apropriação e cria uma volumetria que, ao mesmo tempo em que responde às condicionantes do terreno, contribui para uma paisagem urbana mais viva, conectada e convidativa.
 
-![](../assets/Edificio%20de%20Uso%20Misto/Render-01.png)
+![](../images/Edificio%20de%20Uso%20Misto/Render-01.png)
 Render da fachada. Fonte: do Autor.
 
 ### Galeria
@@ -49,15 +49,16 @@ Render da fachada. Fonte: do Autor.
 ```base
 filters:
   and:
-    - file.folder == "assets/Edificio de Uso Misto"
+    - file.folder == "images/Edificio de Uso Misto/MD"
 views:
   - type: cards
     name: Galeria
     order: []
-    image: file.file
+    limit: 4
+    image: note.ref_image
   - type: gallery
-    name: Galeria 2
+    name: Galeria menor
     order: []
-    image: file.file
+    image: note.ref_image
 
 ```
