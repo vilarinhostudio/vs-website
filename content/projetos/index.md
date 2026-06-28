@@ -23,16 +23,10 @@ views:
     groupBy:
       property: local
       direction: ASC
-    sort:
-      - property: data
-        direction: DESC
-      - property: file.name
-        direction: ASC
-  - type: table
-    name: Por Local 2
-    groupBy:
-      property: local
-      direction: ASC
+    order:
+      - file.name
+      - data
+      - local
     sort:
       - property: data
         direction: DESC

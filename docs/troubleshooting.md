@@ -123,7 +123,7 @@ If `plugin install` consistently fails near the same plugin with `-c 1`, the iss
 
 - Ensure images are in a folder that Quartz processes (typically `content/` or a subfolder)
 - Check that the image path in your Markdown matches the actual file location
-- The [[Assets]] emitter must be enabled (it is by default)
+- The [[plugins/Assets]] emitter must be enabled (it is by default)
 
 ## GitHub Sync Issues
 

@@ -49,7 +49,7 @@ Render da fachada. Fonte: do Autor.
 ```base
 filters:
   and:
-    - file.folder == "projetos"
+    - file.folder == "assets/Edificio de Uso Misto"
 views:
   - type: cards
     name: Galeria
