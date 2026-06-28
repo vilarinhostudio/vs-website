@@ -43,20 +43,16 @@ Assim, a proposta valoriza a caminhabilidade do pedestre, oferece diferentes pos
 ![](../assets/Edificio%20de%20Uso%20Misto/Render-01.png)
 Render da fachada. Fonte: do Autor.
 
-### Galeria
 
+
+### Galeria
 
 ```base
 filters:
   and:
-    - file.folder == "img_md"
-    - file.ext == "md"
+    - file.folder == "content/assets/Edificio de Uso Misto/img_md"
+    - file.ext.endsWith("md")
 views:
-  - type: cards
-    name: Galeria
-    order: []
-    limit: 4
-    image: note.cover
   - type: gallery
     name: Galeria menor
     order: []

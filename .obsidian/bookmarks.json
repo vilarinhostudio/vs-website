@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1782606599225,
+      "title": "Docs",
+      "options": {
+        "collapse-filter": true,
+        "search": "Path:docs  ",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "Index",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "",
+            "color": {
+              "a": 1,
+              "rgb": 14725458
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": true,
+        "centerStrength": 1,
+        "repelStrength": 17.2999465335947,
+        "linkStrength": 0.996168240955267,
+        "linkDistance": 128,
+        "scale": 2.04427320184868,
+        "close": false
+      }
+    }
+  ]
+}
