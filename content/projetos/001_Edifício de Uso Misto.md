@@ -1,10 +1,16 @@
 ---
 title: Edifício de Uso Misto
 draft: false
-data: 2021-12-27
-cover: "[[../assets/Edificio de Uso Misto/Render-06.png]]"
+date: 2021-11-27
+image: "[[../assets/Edificio de Uso Misto/Render-06.png]]"
 local: Mogi das Cruzes, SP - Brasil
+quartz-properties: true
+comments: true
 ---
+
+![](../assets/Edificio%20de%20Uso%20Misto/Render-06.png)
+
+## Descrição
 
 O terreno, com área total de 4.885,17m², está localizado na Rodovia Professor Alfredo Rolim Moura, em frente à Universidade de Mogi das Cruzes e em proximidade imediata a importantes equipamentos urbanos, como prédios públicos, o Mogi Shopping e a Estação Estudantes. Essa localização privilegiada insere o projeto em uma paisagem dinâmica e de grande circulação, marcada pelo fluxo constante de estudantes, moradores e visitantes.
 
@@ -14,7 +20,8 @@ Cada loja voltada para as calçadas conta com um platô independente, o que gera
 
 O estudo de insolação revelou ainda a forte influência do edifício vizinho, cuja sombra cobre a parte frontal do lote até as 10h da manhã. Essa condição foi considerada estrategicamente na implantação do programa, aproveitando as áreas menos iluminadas para funções que não dependem da luz natural, como o auditório.
 
-### Volumetria e Programa
+
+## Volumetria e Programa
 
 ![](../assets/Edificio%20de%20Uso%20Misto/Render-00-Maquete.png)
 Maquete 3D renderizada. Fonte: do Autor.
@@ -34,7 +41,7 @@ A linguagem arquitetônica das fachadas comerciais é marcada por uma cobertura 
 ![](../assets/Edificio%20de%20Uso%20Misto/diag-fachada.png)
 Materiais utilizados na fachada. Fonte: do Autor.
 
-### Conclusão
+## Conclusão
 
 O projeto busca transformar um lote extenso e desafiador em um espaço de integração entre cidade, universidade e moradores. Através da criação de múltiplos acessos, caminhos e espaços de convivência, o edifício não se fecha em si mesmo, mas se abre como uma extensão do espaço público.
 
@@ -43,19 +50,21 @@ Assim, a proposta valoriza a caminhabilidade do pedestre, oferece diferentes pos
 ![](../assets/Edificio%20de%20Uso%20Misto/Render-01.png)
 Render da fachada. Fonte: do Autor.
 
+%%
+## Galeria
 
-
-### Galeria
-
-```base
+base
 filters:
   and:
-    - file.folder == "assets/Edificio de Uso Misto/img_md"
+    - file.folder == "../assets/Edificio de Uso Misto"
     - file.ext.endsWith("md")
 views:
-  - type: gallery
-    name: Galeria menor
+  - type: cards
+    name: Galeria
     order: []
     image: note.cover
+    imageFit: contain
+    cardSize: 150
+    imageAspectRatio: 1.5
 
-```
+%%

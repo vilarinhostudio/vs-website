@@ -1,9 +1,11 @@
 ---
-title: Título
+title: Título do Projeto
 draft: false
-data:
-cover:
+date:
+image:
 local:
+quartz-properties: true
+comments: true
 ---
 
 ## Descrição

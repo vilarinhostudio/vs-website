@@ -250,6 +250,8 @@ plugins:
         - description
         - tags
         - aliases
+        - date
+        - local
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---

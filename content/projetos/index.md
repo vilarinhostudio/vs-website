@@ -15,9 +15,10 @@ views:
     order:
       - file.name
       - local
-      - data
+      - date
     sort: []
-    image: note.cover
+    image: note.image
+    cardSize: 200
   - type: board
     name: Por Local
     groupBy:
@@ -28,7 +29,7 @@ views:
       - data
       - local
     sort:
-      - property: data
+      - property: date
         direction: DESC
       - property: file.name
         direction: ASC
