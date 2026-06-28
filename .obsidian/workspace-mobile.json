@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/assets/Edificio de Uso Misto/img_md/02-platôs.md",
+                "file": "content/projetos/001_Edifício de Uso Misto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-platôs"
+              "title": "001_Edifício de Uso Misto"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "5ff9936d58eedba9",
   "lastOpenFiles": [
-    "content/assets/Edificio de Uso Misto/02-platôs.png",
     "content/assets/Edificio de Uso Misto/img_md/02-platôs.md",
+    "content/projetos/001_Edifício de Uso Misto.md",
+    "content/assets/Edificio de Uso Misto/02-platôs.png",
     "content/assets/Edificio de Uso Misto/img_md/04-corte-C.md",
     "content/assets/Edificio de Uso Misto/img_md/diag-corte-isometrico-A.md",
     "content/assets/Edificio de Uso Misto/img_md/03-pav-05.md",
@@ -195,7 +196,6 @@
     "content/assets/Edificio de Uso Misto/img_md/03-pav-03.md",
     "content/assets/Edificio de Uso Misto/img_md/diag-pav-residencial.md",
     "content/assets/Edificio de Uso Misto/img_md/03-subsolo.md",
-    "content/assets/Edificio de Uso Misto/img_md/03-pav-02.md",
     "content/assets/Edificio de Uso Misto/img_md",
     "img2md.py",
     "content/assets/Edificio de Uso Misto/Render-05.png",
