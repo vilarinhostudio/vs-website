@@ -50,10 +50,10 @@ Render da fachada. Fonte: do Autor.
 ```base
 filters:
   and:
-    - file.folder == "assets/Edificio de Uso Misto/img_md"
+    - file.folder == "content/assets/Edificio de Uso Misto/img_md"
     - file.ext.endsWith("md")
 views:
-  - type: gallery
+  - type: cards
     name: Galeria menor
     order: []
     image: note.cover

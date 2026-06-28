@@ -11,14 +11,12 @@
             "id": "5ff9936d58eedba9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/projetos/001_Edifício de Uso Misto.md",
-                "mode": "source",
-                "source": false
+                "file": "content/assets/Edificio de Uso Misto/Render-06.png"
               },
-              "icon": "lucide-file",
-              "title": "001_Edifício de Uso Misto"
+              "icon": "lucide-image",
+              "title": "Render-06"
             }
           }
         ]
@@ -170,8 +168,9 @@
   },
   "active": "5ff9936d58eedba9",
   "lastOpenFiles": [
-    "content/assets/Edificio de Uso Misto/img_md/02-platôs.md",
     "content/projetos/001_Edifício de Uso Misto.md",
+    "content/projetos/index.md",
+    "content/assets/Edificio de Uso Misto/img_md/02-platôs.md",
     "content/assets/Edificio de Uso Misto/02-platôs.png",
     "content/assets/Edificio de Uso Misto/img_md/04-corte-C.md",
     "content/assets/Edificio de Uso Misto/img_md/diag-corte-isometrico-A.md",
