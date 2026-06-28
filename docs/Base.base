@@ -126,7 +126,7 @@ views:
     name: Image Cards
     filters:
       and:
-        - file.folder == "plugins"
+        - file.folder == "docs/plugins"
         - "!image.isEmpty()"
     order:
       - file.name

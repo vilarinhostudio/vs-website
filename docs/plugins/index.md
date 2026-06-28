@@ -26,13 +26,13 @@ Quartz plugins fall into several categories:
 filters:
   and:
     - file.ext == "md"
-    - file.inFolder("plugins")
-    - "!file.name.startsWith('index')"
-    - "!file.name.contains('Demo')"
-    - "!file.name.contains('Static')"
-    - "!file.name.contains('Assets')"
-    - "!file.name.contains('ComponentResources')"
-    - "!file.name.contains('NotFoundPage')"
+    - file.inFolder("docs/plugins")
+    - '!file.name.startsWith("index")'
+    - '!file.name.contains("Demo")'
+    - '!file.name.contains("Static")'
+    - '!file.name.contains("Assets")'
+    - '!file.name.contains("ComponentResources")'
+    - '!file.name.contains("NotFoundPage")'
 formulas:
   category: |
     if(file.hasTag("plugin/transformer"), "Transformer",
