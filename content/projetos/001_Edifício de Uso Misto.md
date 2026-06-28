@@ -49,7 +49,8 @@ Render da fachada. Fonte: do Autor.
 ```base
 filters:
   and:
-    - file.folder == "assets/img_md"
+    - file.folder == "img_md"
+    - file.ext == "md"
 views:
   - type: cards
     name: Galeria
