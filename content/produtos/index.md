@@ -1,6 +1,7 @@
 ---
 title: Produtos
 draft: true
+comments: false
 ---
 
 ```base

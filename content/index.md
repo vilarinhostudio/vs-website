@@ -1,5 +1,6 @@
 ---
 title: Vilarinho Studio Website
+comments: false
 ---
 
 Essa é a homepage!

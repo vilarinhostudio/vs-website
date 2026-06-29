@@ -3,7 +3,7 @@ title: Partido
 draft: false
 image: "[[../assets/IMG_8929.jpeg]]"
 quartz-properties: true
-comments: true
+comments: false
 modified:
 ---
 

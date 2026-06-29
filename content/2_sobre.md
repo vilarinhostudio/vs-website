@@ -1,6 +1,7 @@
 ---
 title: Sobre
 draft: false
+comments: false
 ---
 
 Sou Arthur Vilarinho, arquiteto e urbanista formado pelo Mackenzie, com foco em design paramétrico, BIM e visualização digital.

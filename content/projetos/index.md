@@ -1,6 +1,7 @@
 ---
 title: Arquitetura
 draft: false
+comments: false
 ---
 
 ```base
