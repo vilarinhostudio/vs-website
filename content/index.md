@@ -9,7 +9,6 @@ Ela vai ser totalmente editada em html.
 Enquanto isso, explore o site!
 
 - [Sobre](2_sobre.md);
-- [==Sobre==](2_sobre.md);
 - [Projetos](projetos/index.md);
 - [Contato](3_contato.md);
 
