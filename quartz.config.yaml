@@ -220,9 +220,9 @@ plugins:
       provider: giscus
       options:
         repo: vilarinhostudio/vs-website
-        repoId: ...
+        repoId: R_kgDOTB5sLQ
         category: General
-        categoryId: ...
+        categoryId: DIC_kwDOTB5sLc4DAKG1
         mapping: pathname
         reactionsEnabled: true
         emitMetadata: false

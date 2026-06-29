@@ -19,5 +19,3 @@ X
 ## Conclusão
 
 X
-
-Dá pra comentar?
