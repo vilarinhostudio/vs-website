@@ -5,6 +5,7 @@
     "tags": "tags",
     "data": "date",
     "comments": "checkbox",
-    "quartz-properties-collapse": "checkbox"
+    "quartz-properties-collapse": "checkbox",
+    "modified": "datetime"
   }
 }
