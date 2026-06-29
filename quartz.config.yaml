@@ -261,13 +261,14 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+
   - source:
       name: quartz-themes
       repo: github:saberzero1/quartz-themes
       subdir: plugin
     enabled: true
     options:
-      theme: default
+      theme: obsidian-gruvbox
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
