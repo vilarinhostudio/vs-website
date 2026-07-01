@@ -14,6 +14,11 @@ Enquanto isso, explore o site!
 
 ---
 
+## Renders impactantes
+## Gráficos legais
+
+---
+
 %% Editar, parece feito por IA %%
 
 ## **Estudos de uma arquitetura minha**
