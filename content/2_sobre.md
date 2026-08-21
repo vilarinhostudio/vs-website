@@ -3,6 +3,7 @@ title: Sobre
 draft: false
 comments: false
 ---
+![](assets/IMG_8929.jpeg)
 
 Sou Arthur Vilarinho, arquiteto e urbanista formado pelo Mackenzie, com foco em design paramétrico, BIM e soluções digitais.
 
@@ -13,5 +14,3 @@ Atualmente, uso o Blender como minha ferramenta principal, por ser a melhor em m
 Acredito que a arquitetura é um campo em constante diálogo entre o concreto e o sensível. É uma importante forma de representar o espírito da nossa época (Zeitgheist) e criar conexões pessoais que importam.
 
 Entre em contato e vamos fazer um projeto com a sua cara!
-
-![](assets/IMG_8929.jpeg)

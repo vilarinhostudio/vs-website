@@ -3,7 +3,7 @@ title: Vilarinho Studio Website
 comments: false
 ---
 
-Essa é a homepage!
+Essa é a homepage.
 Ela vai ser totalmente editada em html.
 
 Enquanto isso, explore o site!
@@ -12,10 +12,9 @@ Enquanto isso, explore o site!
 - [Projetos](projetos/index.md);
 - [Contato](3_contato.md);
 
----
+%% Renders impactantes %%
 
-## Renders impactantes
-## Gráficos legais
+%% Gráficos legais %%
 
 ---
 
