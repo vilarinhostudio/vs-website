@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Vilarinho Studio
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
-  baseUrl: example.com
+  locale: pt-BR
+  baseUrl: vilarinhostudio.pages.dev
   ignorePatterns:
     - private
     - templates
@@ -236,8 +236,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Sobre: https://vilarinhostudio.pages.dev/2_sobre
+        Contato: https://vilarinhostudio.pages.dev/3_contato
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
